@@ -1,0 +1,13 @@
+.env
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.streamlit/
+*.mp3
+*.wav
+.vscode/
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp

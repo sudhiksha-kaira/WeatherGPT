@@ -1,0 +1,7 @@
+﻿streamlit
+requests
+python-dotenv
+groq
+gTTS
+rapidfuzz
+streamlit-geolocation

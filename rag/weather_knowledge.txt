@@ -1,0 +1,123 @@
+WEATHERGPT WEATHER AND CLIMATE KNOWLEDGE BASE
+
+1. WEATHER
+
+Weather describes the current condition of the atmosphere at a particular place and time.
+
+Important weather parameters include temperature, humidity, atmospheric pressure, wind speed, wind direction, cloud cover, and precipitation.
+
+Temperature describes how hot or cold the atmosphere is.
+
+Humidity describes the amount of water vapor present in the air.
+
+Atmospheric pressure is the force exerted by the weight of air in the atmosphere.
+
+Wind is the movement of air from an area of higher pressure toward an area of lower pressure.
+
+Precipitation includes rain, snow, sleet, and hail that fall from the atmosphere.
+
+
+2. CLIMATE
+
+Climate describes the long-term pattern of weather in a particular region.
+
+Weather can change within minutes or hours, while climate is studied over much longer periods.
+
+Climate is influenced by latitude, altitude, distance from oceans, landforms, ocean currents, and atmospheric circulation.
+
+
+3. MONSOON
+
+The Indian monsoon is a seasonal wind system that brings major changes in rainfall across India.
+
+The southwest monsoon generally brings most of India's annual rainfall.
+
+Monsoon rainfall is important for agriculture, water resources, reservoirs, and ecosystems.
+
+The timing and amount of monsoon rainfall can vary between regions and years.
+
+
+4. EL NINO
+
+El Niño is a climate pattern associated with unusually warm sea surface temperatures in the central and eastern tropical Pacific Ocean.
+
+El Niño can influence atmospheric circulation and weather patterns around the world.
+
+Its effects on Indian monsoon rainfall can vary depending on the event and other climate factors.
+
+
+5. LA NINA
+
+La Niña is a climate pattern associated with unusually cool sea surface temperatures in the central and eastern tropical Pacific Ocean.
+
+La Niña can influence global atmospheric circulation and weather patterns.
+
+Its influence on Indian monsoon rainfall can vary from one event to another.
+
+
+6. HEATWAVE
+
+A heatwave is a period of unusually high temperatures that persists for several days.
+
+Heatwaves can increase the risk of dehydration, heat exhaustion, and heat-related illness.
+
+During extreme heat, people should stay hydrated, reduce unnecessary outdoor exposure, and follow official local health advisories.
+
+
+7. THUNDERSTORM
+
+A thunderstorm is a storm associated with lightning and thunder.
+
+Thunderstorms can produce heavy rain, strong winds, lightning, and sometimes hail.
+
+During thunderstorms, people should avoid exposed outdoor areas and seek shelter in a safe building.
+
+
+8. CYCLONE
+
+A tropical cyclone is a large rotating weather system that forms over warm tropical or subtropical ocean waters.
+
+Cyclones can produce strong winds, heavy rainfall, flooding, and storm surges.
+
+People in affected areas should follow official warnings and evacuation instructions issued by local authorities.
+
+
+9. FLOOD
+
+Flooding occurs when water covers land that is normally dry.
+
+Heavy rainfall, overflowing rivers, storm surges, and drainage problems can contribute to flooding.
+
+During floods, people should avoid walking or driving through moving floodwater and follow local emergency instructions.
+
+
+10. DROUGHT
+
+A drought is a prolonged period of unusually low rainfall that results in water shortages.
+
+Droughts can affect agriculture, drinking water supplies, ecosystems, and local economies.
+
+Water conservation and effective water-resource management can help reduce drought impacts.
+
+
+11. WEATHER FORECAST
+
+A weather forecast is an estimate of future atmospheric conditions.
+
+Forecasts may include temperature, precipitation probability, wind speed, humidity, pressure, and weather conditions.
+
+Forecast accuracy generally decreases as the forecast period becomes longer.
+
+
+12. RAIN PROBABILITY
+
+Rain probability represents the likelihood of measurable precipitation occurring at a specified location during a specified period.
+
+A higher probability indicates a greater chance of precipitation, but it does not necessarily indicate how much rain will fall.
+
+
+13. WEATHER SAFETY
+
+During severe weather, people should follow official warnings from trusted meteorological and emergency-management authorities.
+
+Weather applications can provide useful information, but emergency decisions should be based on current official alerts and instructions.

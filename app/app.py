@@ -56,9 +56,16 @@ groq_client = Groq(
 # ============================================================
 
 st.set_page_config(
-    page_title="WeatherGPT",
+    page_title="WeatherGPT - AI Weather Assistant",
     page_icon="🌦️",
     layout="wide"
+)
+st.header("WeatherGPT - AI Weather Assistant")
+
+st.text(
+    "WeatherGPT is a multilingual AI weather assistant for weather forecasts, "
+    "weather alerts, climate information, village-level weather, voice questions, "
+    "and weather safety."
 )
 
 # ============================================================
